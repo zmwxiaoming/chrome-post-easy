@@ -1,0 +1,26 @@
+{
+    "name": "post-easy",
+    "version": "1.0",
+    "description": "让请求更容易!",
+    "manifest_version": 2,
+    "browser_action": {
+        "default_title": "post-easy",
+        "default_icon": "./static/images/share.png"
+    },
+    "icons": {
+        "16": "./static/images/share.png",
+        "32": "./static/images/share.png",
+        "48": "./static/images/share.png",
+        "128": "./static/images/share.png"
+    },
+    "permissions": [
+        "webRequestBlocking",
+        "*://*/*"
+    ],
+    "background": {
+        "scripts": [
+            "background.js"
+        ],
+        "persistent": false
+    }
+}
