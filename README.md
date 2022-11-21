@@ -8,7 +8,7 @@
  - 3.可以按照form的方式请求
  - 4.可以生成验签: 真对特殊的请求,生成验签
   ![image](https://user-images.githubusercontent.com/8034998/202961413-c541a4c5-25d5-4f2a-adc5-46900251ffaa.png)
-## 其它有点:
+## 其它特点:
  - 对比两个文本的不同之处, 这就是为了验证一些接口返回值的不同或者一些请求参数验签字符串的差异
  - 加密与解密
 ![image](https://user-images.githubusercontent.com/8034998/202972324-4f2b6af7-34c4-484a-b8eb-f3bf46136fe1.png)
