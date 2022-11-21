@@ -7,10 +7,12 @@
  - 2.可以转换参数列表, 以便更清晰的检测每一个参数
  - 3.可以按照form的方式请求
  - 4.可以生成验签: 真对特殊的请求,生成验签
+  ![image](https://user-images.githubusercontent.com/8034998/202961413-c541a4c5-25d5-4f2a-adc5-46900251ffaa.png)
 ## 其它有点:
  - 对比两个文本的不同之处, 这就是为了验证一些接口返回值的不同或者一些请求参数验签字符串的差异
  - 加密与解密
- ![image](https://user-images.githubusercontent.com/8034998/202961413-c541a4c5-25d5-4f2a-adc5-46900251ffaa.png)
+![image](https://user-images.githubusercontent.com/8034998/202972324-4f2b6af7-34c4-484a-b8eb-f3bf46136fe1.png)
+![image](https://user-images.githubusercontent.com/8034998/202972380-9942011b-8b02-4cc7-9d1b-0ee729ad5a7c.png)
 
 
 **更多优秀开源项目介绍请关注:**
